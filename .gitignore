@@ -25,4 +25,5 @@ pnpm-debug.log*
 
 #claude-related
 
-claude.mdclaude.md
+CLAUDE.md
+.claude
