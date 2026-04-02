@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(open /Users/arthurblum/VSCODE_arthurblum/garmin_data/public/videos)"
+    ]
+  }
+}
